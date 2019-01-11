@@ -35,7 +35,7 @@ function Track (title, rating, length){
 }
 
 let stanLibrary = new Library("Cool Music","Stanley");
-console.log(stanLibrary);
+
 
 let track1 = new Track("Wannabe", 5, 120);
 let track2 = new Track("Spice Up Your Life", 7, 300);
